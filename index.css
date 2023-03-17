@@ -19,18 +19,22 @@ h1 {
 }
 
 .title2 {
-    font-family: Verdana, sans serif;
+    font-family: Verdana, sans-serif;
     font-weight: 300;
     font-size: 42px;
     color: white;
+    text-align: center;
 }
 
 .title3 {
     font-family: Verdana, sans-serif;
     font-size: 21px;
-    color: gray:
+    color: gray;
+    text-align: center;
 }
 
-image {
-    width: 100%;
+.image {
+    margin: auto;
+    text-align: center;
+    display: block;
 }
